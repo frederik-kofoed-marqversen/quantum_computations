@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: quantum_computations
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Frederik Kofoed
+    family-names: Marqversen
+    orcid: 'https://orcid.org/0009-0002-7043-9898'
+repository-code: >-
+  https://github.com/frederik-kofoed-marqversen/quantum_computations
+license: MIT
