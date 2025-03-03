@@ -1,4 +1,4 @@
-# gkp_quantum_computations
+# quantum_computations
 This repository contains code related to my studies of quantum computations. Mostly the product of my work during my Master and PhD with Aarhus University & Kvantify ApS.
 
 
