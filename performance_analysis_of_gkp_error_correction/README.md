@@ -1,6 +1,6 @@
 # Performance Analysis of GKP Error Correction
 
-This repository contains code used for validation and illustration for the research article **"Performance Analysis of GKP Error Correction."** - in preparation. The project has been made independent of the rest of this repository.
+This folder contains code used for validation and illustration for the research article *Performance Analysis of GKP Error Correction* [arXiv:2505.14775](https://arxiv.org/abs/2505.14775). The project has been made independent of the rest of this repository.
 
 ## Contents
 
