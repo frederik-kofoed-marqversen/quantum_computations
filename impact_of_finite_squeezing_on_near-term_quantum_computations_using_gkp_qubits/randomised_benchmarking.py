@@ -9,7 +9,7 @@ import numpy as np
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
 
-from phd_sandbox.gkp_grover import run_simulation
+from grover import run_simulation
 
 from simulators.dv_simulator import gates as dv_gates
 from simulators.dv_simulator.states import State as DVState

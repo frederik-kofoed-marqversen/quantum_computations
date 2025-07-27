@@ -9,7 +9,7 @@ from timeit import default_timer as timer
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.dirname(SCRIPT_DIR))
 
-import phd_sandbox.dv_circuits as ccs
+import dv_circuits as ccs
 
 from simulators.dv_simulator import numpy_quantum as npq
 from simulators.dv_simulator import gates as dv_gates
