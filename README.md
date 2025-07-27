@@ -1,6 +1,6 @@
 # quantum_computations
 
-This repository contains code related to my research on quantum computations, primarily developed during my Master's and PhD studies at Aarhus University and Kvantify ApS.
+This repository contains code related to my research on quantum computations, primarily developed during my and PhD studies at Aarhus University and Kvantify ApS.
 
 ## Contents
 
@@ -15,7 +15,7 @@ This repository contains code related to my research on quantum computations, pr
   [arXiv:2505.14775](https://arxiv.org/abs/2505.14775)  
 
 - **[`impact_of_finite_squeezing_on_near-term_quantum_computations_using_gkp_qubits/`](./impact_of_finite_squeezing_on_near-term_quantum_computations_using_gkp_qubits/)**  
-  Code and analysis for the article:  
+  Code, data, and analysis for the article:  
   *Impact of Finite Squeezing on Near-Term Quantum Computations Using GKP Qubits*  
   [arXiv:2507.15955](https://arxiv.org/abs/2507.15955)  
 
