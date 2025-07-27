@@ -1,6 +1,6 @@
 # Simulators
 
-This folder containts tools for simulation of discrete-variable (DV), continuous-variable (CV), and Gottesman–Kitaev–Preskill (GKP) quantum systems. These were initially developed for the purpose of investigating computations using GKP qubits for the published article *Impact of Finite Squeezing on Near-Term Quantum Computations Using GKP Qubits* (Manuscript in preparation).
+This folder containts tools for simulation of discrete-variable (DV), continuous-variable (CV), and Gottesman–Kitaev–Preskill (GKP) quantum systems. Initially developed for the purpose of investigating computations using GKP qubits for the published article *Impact of Finite Squeezing on Near-Term Quantum Computations Using GKP Qubits* [arXiv:2507.15955](https://arxiv.org/abs/2507.15955).
 
 ## Contents
 

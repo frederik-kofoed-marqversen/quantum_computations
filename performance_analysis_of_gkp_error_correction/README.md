@@ -4,7 +4,7 @@ This folder contains code used for validation and illustration for the research 
 
 ## Contents
 
-- **`figures.ipynb`**: Generates plots related to the article.  
+- **`figures.ipynb`**: Generates plots related to the article.
 - **`numerical_tests.ipynb`**: Performs numerical sanity checks to validate the analytical results from the paper.
 - **`utils.py`**: Helper functions.
 - **`requirements.txt`**: List of project dependencies.
