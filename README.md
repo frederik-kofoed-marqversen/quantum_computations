@@ -5,7 +5,7 @@ This repository contains code related to my research on quantum computations, pr
 ## Contents
 
 - **[`fault-tolerant_interfaces_for_modular_quantum_computing_on_diverse_qubit_platforms/`](./fault-tolerant_interfaces_for_modular_quantum_computing_on_diverse_qubit_platforms/)**  
-  Code and data for the article:  
+  Code, data, and analysis for the article:  
   *Fault-tolerant interfaces for modular quantum computing on diverse qubit platforms*  
   (Manuscript in preparation)  
 
@@ -15,12 +15,12 @@ This repository contains code related to my research on quantum computations, pr
   [arXiv:2505.14775](https://arxiv.org/abs/2505.14775)  
 
 - **[`impact_of_finite_squeezing_on_near-term_quantum_computations_using_gkp_qubits/`](./impact_of_finite_squeezing_on_near-term_quantum_computations_using_gkp_qubits/)**  
-  Code and analysis for the forthcoming article:  
+  Code and analysis for the article:  
   *Impact of Finite Squeezing on Near-Term Quantum Computations Using GKP Qubits*  
   [arXiv:2507.15955](https://arxiv.org/abs/2507.15955)  
 
 - **[`simulators/`](./simulators/)**  
-  Initially developed for the purpose of investigating computations using GKP qubits for the published article:  
+  Initially developed for the purpose of investigating computations using GKP qubits for the research article:  
   *Impact of Finite Squeezing on Near-Term Quantum Computations Using GKP Qubits*  
   [arXiv:2507.15955](https://arxiv.org/abs/2507.15955).  
 
