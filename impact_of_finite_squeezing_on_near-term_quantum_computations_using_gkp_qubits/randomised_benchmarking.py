@@ -63,7 +63,7 @@ def sample_depth(db: float, depth: int, num_samples: int, rng_seed: int):
 
     samples = []
     for _ in range(num_samples):
-        dv_circ, gkp_circ = random_circ(2, depth, rng)
+        dv_circ, gkp_circ = random_circ(N, depth, rng)
 
         sim = GKPSimulator(gkp_circ, epsilon, rng_seed=rng, svd_options=svd_options)
         rho = run_simulation(sim, init_mps.copy())
