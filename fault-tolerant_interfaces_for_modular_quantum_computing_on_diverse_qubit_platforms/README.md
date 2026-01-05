@@ -1,6 +1,6 @@
 # Fault-tolerant interfaces for modular quantum computing on diverse qubit platforms
 
-This folder contains code used for validation and illustration for the research article *Fault-tolerant interfaces for modular quantum computing on diverse qubit platforms* (Manuscript in preparation). This project directory is self-contained.
+This folder contains code used for validation and illustration for the research article *Fault-tolerant interfaces for modular quantum computing on diverse qubit platforms* [arXiv:2510.05221](https://arxiv.org/abs/2510.05221). This project directory is self-contained.
 
 ## Contents
 

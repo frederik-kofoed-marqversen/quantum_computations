@@ -7,7 +7,7 @@ This repository contains code related to my research on quantum computations, pr
 - **[`fault-tolerant_interfaces_for_modular_quantum_computing_on_diverse_qubit_platforms/`](./fault-tolerant_interfaces_for_modular_quantum_computing_on_diverse_qubit_platforms/)**  
   Code, data, and analysis for the article:  
   *Fault-tolerant interfaces for modular quantum computing on diverse qubit platforms*  
-  (Manuscript in preparation)  
+  [arXiv:2510.05221](https://arxiv.org/abs/2510.05221)  
 
 - **[`performance_analysis_of_gkp_error_correction/`](./performance_analysis_of_gkp_error_correction/)**  
   Code and data for the article:  
